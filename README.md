@@ -1,6 +1,6 @@
 # Micro Machines
-Project made for the Computer Graphics subject at Instituto Superior Técnico.
-This project is a "clone" from the MicroMachines.
+Project made for the Computer Graphics subject at Instituto Superior Técnico.<br />
+This project is a "clone" from the MicroMachines.<br />
 
 ## Controls:<br />
 [Arrow keys] Controls the car movement.<br />
@@ -14,6 +14,6 @@ This project is a "clone" from the MicroMachines.
 [R] Restarts the game.<br />
 
 ## Authors:
-[Carina Martins](https://github.com/carinamgm)
-[Diogo Ferreira](https://github.com/drlferreira)
-[Francisco Santos](https://github.com/xxlxpto)
+[Carina Martins](https://github.com/carinamgm)<br />
+[Diogo Ferreira](https://github.com/drlferreira)<br />
+[Francisco Santos](https://github.com/xxlxpto)<br />
