@@ -10,8 +10,9 @@ This project is a "clone" from the MicroMachines.<br />
 [C] Turns the candle on.<br />
 [N] Turns the ambient light on.<br />
 [G] Changes the shader algorithm.<br />
-[P] Pauses the game.<br />
+[S] Pauses the game.<br />
 [R] Restarts the game.<br />
+[A] Display Wireframe.<br />
 
 ## Authors:
 [Carina Martins](https://github.com/carinamgm)<br />
