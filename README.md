@@ -15,12 +15,12 @@ For more information, please read the Resources directory's [README.md](https://
 [1][2][3] Controls the cameras.<br />
 [L] Turns the light calculation on.<br />
 [H] Turns the headlights on.<br />
-[C] Turns the candle on.<br />
+[C] Turns the candles on.<br />
 [N] Turns the ambient light on.<br />
 [G] Changes the shader algorithm.<br />
 [S] Pauses the game.<br />
-[R] Restarts the game.<br />
-[A] Display Wireframe.<br />
+[R] Restarts the game. (Only works if you lose.)<br />
+[A] Activates Wireframe Mode.<br />
 
 ## Authors:
 [Carina Martins](https://github.com/carinamgm)<br />
