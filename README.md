@@ -1,6 +1,10 @@
 # Micro Machines
-Project made for the Computer Graphics subject at Instituto Superior Técnico.<br />
-This project is a "clone" from the MicroMachines.<br />
+This project was made for the Computer Graphics subject at Instituto Superior Técnico.<br />
+It is a "clone" from the MicroMachines video game.<br />
+
+## Compilation:
+To compile the game, you will need to import the project in Visual Studio and link GLUT in the project settings. This tutorial will help you to link GLUT to the project. [Tutorial](https://goo.gl/AGa4Z0)<br />
+You can find GLUT here:  [GLUT](https://goo.gl/Nlixig)
 
 ## Controls:<br />
 [Arrow keys] Controls the car movement.<br />
